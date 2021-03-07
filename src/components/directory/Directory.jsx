@@ -16,6 +16,7 @@ const Directory = () => {
             title={res.title}
             imageUrl={res.imageUrl}
             size={res.size}
+            linkUrl={res.linkUrl}
           />
         );
       })}
