@@ -1,4 +1,3 @@
-import { useState } from "react";
 import CollectionItem from "../collection-item/CollectionItem";
 
 import "./PreviewCollection.scss";
